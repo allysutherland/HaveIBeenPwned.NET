@@ -2,12 +2,12 @@
 <package >
   <metadata>
     <id>HaveIBeenPwned.NET</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <title>HaveIBeenPwned.NET</title>
     <authors>Alistair Sutherland</authors>
     <owners>Alistair Sutherland</owners>
     <projectUrl>https://github.com/allysutherland/HaveIBeenPwned.NET</projectUrl>
-	<iconUrl>https://github.com/allysutherland/HaveIBeenPwned.NET/blob/master/HaveIBeenPwned/nuget/icon.png</iconUrl>
+	<iconUrl>https://github.com/allysutherland/HaveIBeenPwned.NET/blob/master/HaveIBeenPwned/nuget/icon.png?raw=true</iconUrl>
 	<licenseUrl>https://github.com/allysutherland/HaveIBeenPwned.NET/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>A .NET Standard 2.0 client for the haveibeenpwned.com RESTful API. It supports the querying of pwnded passwords, breaches and pastes.</description>
@@ -15,7 +15,6 @@
     <copyright>Copyright Alistair Sutherland 2019</copyright>
     <tags>haveibeenpwned API wrapper pwned REST</tags>
 	<dependencies>
-      <dependency id="NETStandard.Library" version="2.0.3" />
       <dependency id="RestSharp" version="106.6.9" />
     </dependencies> 
   </metadata>
