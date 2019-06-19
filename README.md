@@ -3,6 +3,15 @@ A .NET Standard client for haveibeenpwned.com RESTful API. For full description 
 
 This project targets [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/library)
 
+## Platform support
+
+|Platform|Version|
+| ------------------- | :----------:|
+|.NET Standard|2.0|
+
+## Nuget Package
+  PM> Install-Package HaveIBeenPwned.NET
+
 ## Usage
 
 For full examples please see the HaveIBeenPwnedClientUnitTest project.
@@ -60,3 +69,6 @@ Breach breach = await client.GetBreach("Adobe");
 Console.WriteLine(breach.Name);
 Console.WriteLine(breach.Description);
 ```
+
+## License
+The MIT License (MIT) see [License file](LICENSE)
