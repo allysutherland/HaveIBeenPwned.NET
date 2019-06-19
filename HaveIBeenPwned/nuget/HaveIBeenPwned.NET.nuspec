@@ -7,10 +7,10 @@
     <authors>Alistair Sutherland</authors>
     <owners>Alistair Sutherland</owners>
     <projectUrl>https://github.com/allysutherland/HaveIBeenPwned.NET</projectUrl>
-	<iconUrl></iconUrl>
+	<iconUrl>https://github.com/allysutherland/HaveIBeenPwned.NET/blob/master/HaveIBeenPwned/nuget/icon.png</iconUrl>
 	<licenseUrl>https://github.com/allysutherland/HaveIBeenPwned.NET/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>A .NET Standard 2.0 client for the haveibeenpwned.com RESTful API, supporting the querying of pwnded passwords, breaches and pastes.</description>
+    <description>A .NET Standard 2.0 client for the haveibeenpwned.com RESTful API. It supports the querying of pwnded passwords, breaches and pastes.</description>
     <releaseNotes></releaseNotes>
     <copyright>Copyright Alistair Sutherland 2019</copyright>
     <tags>haveibeenpwned API wrapper pwned REST</tags>
